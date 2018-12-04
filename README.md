@@ -41,7 +41,7 @@ After that, you should be able to execute the script like this :
 $ python main.py
 ```
 
-And voilà, colors changing based on Ark Price !
+And voilà, colors changing based on the state of your node !
 
 ### Configuration
 
