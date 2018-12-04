@@ -33,7 +33,8 @@ That command will install the `requests` library globally on your system, to con
 
 ### Running it
 
-Once everything installed, you should edit the configuration file to suit your needs, the only parameter really necessary to update is the `bridge_ip` one and maybe the `light_id` one too. 
+Once everything installed, you should edit the configuration file to suit your needs, the only parameter really necessary to update is the `bridge_ip` one and maybe the `light_id` one too.
+If you want to look for a specific delegate you should edit the `delegate_name` inside the configuration file, by default it's set to "thegoldenhorde". 
 
 After that, you should be able to execute the script like this : 
 
