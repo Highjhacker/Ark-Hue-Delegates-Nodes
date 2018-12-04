@@ -1,4 +1,3 @@
-# [inital value when first run, last value, new value]
 import time
 import sys
 import atexit
